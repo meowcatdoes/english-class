@@ -10,5 +10,11 @@
       "Options": ["Apple", "Banana", "Orange", "Watermelon"],
       "Answer": "Orange",
       "ID": "fruits"
+  },
+  {
+      "Question": "What is your favourite food?",
+      "Options": ["Fried Chicken", "Sushi", "Noodles", "Pizza"],
+      "Answer": "Fried Chicken",
+      "ID": "foods"
   }
 ]
