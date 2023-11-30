@@ -1,20 +1,38 @@
 [
   {
-      "Question": "What is your favourite colour?",
-      "Options": ["Red", "Blue", "Yellow", "Green"],
-      "Answer": "Red",
-      "ID" : "colours"
+      "Question": "Completa la frase: George is ______ than Nick.",
+      "Options": ["Tall", "Taller", "Tallest", "Told"],
+      "Answer": "Taller",
+      "ID" : "grammar-1"
   },
   {
-      "Question": "What is your favourite fruit?",
-      "Options": ["Apple", "Banana", "Orange", "Watermelon"],
-      "Answer": "Orange",
-      "ID": "fruits"
+      "Question": "Completa la frase: I like walking in the park ____ hot days.",
+      "Options": ["at", "in", "on", "under"],
+      "Answer": "on",
+      "ID": "grammar-2"
   },
   {
-      "Question": "What is your favourite food?",
-      "Options": ["Fried Chicken", "Sushi", "Noodles", "Pizza"],
-      "Answer": "Fried Chicken",
-      "ID": "foods"
+      "Question": "Completa la frase: _____ do you like playing during long winter evenings?",
+      "Options": ["Who", "Where", "Which", "What"],
+      "Answer": "What",
+      "ID": "grammar-3"
+  },
+  {
+    "Question": "Come si dice <font color='red'>questo colore</color>?",
+      "Options": ["purple", "blue", "green", "red"],
+      "Answer": "red",
+      "ID": "vocab-1"
+  },
+  {
+    "Question": "Come si dice 'sorella'?",
+      "Options": ["Sister", "Sislay", "Brother", "Scissors"],
+      "Answer": "Sister",
+      "ID": "vocab-2"
+  },
+  {
+    "Question": "Quali delle seguenti parole è considerato un elettrodomestico?",
+      "Options": ["Dog", "Bed", "Fridge", "Tree"],
+      "Answer": "Fridge",
+      "ID": "vocab-3"
   }
 ]
