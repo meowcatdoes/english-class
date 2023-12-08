@@ -45,6 +45,13 @@
     "Question": "Come si dice il numero sette?",
     "Options": ["Ten", "Four", "Seven", "Six"],
     "Answer": "Seven",
-    "ID": "vocab-1"
+    "ID": "vocab-5"
+  },
+  {
+    "Question": "Come si chiama l'oggetto nell'immagine sotto?",
+    "Image" : "https://clipart-library.com/data_images/321852.png",
+    "Options": ["Telephone", "Calculator", "Laptop Computer", "Mobile Phone"],
+    "Answer": "Calculator",
+    "ID": "vocab-6"
   }
 ]
