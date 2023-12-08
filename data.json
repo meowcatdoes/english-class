@@ -1,5 +1,11 @@
 [
   {
+    "Question": "Come si dice il numero sette?",
+    "Options": ["Ten", "Four", "Seven", "Six"],
+    "Answer": "Seven",
+    "ID": "vocab-1"
+  },
+  {
       "Question": "Completa la frase: George is ＿＿ than Nick.",
       "Options": ["Tall", "Taller", "Tallest", "Told"],
       "Answer": "Taller",
@@ -21,18 +27,24 @@
     "Question": "Come si dice <font color='red'>questo colore</color>?",
       "Options": ["purple", "blue", "green", "red"],
       "Answer": "red",
-      "ID": "vocab-1"
+      "ID": "vocab-2"
   },
   {
     "Question": "Come si dice 'sorella'?",
       "Options": ["Sister", "Sislay", "Brother", "Scissors"],
       "Answer": "Sister",
-      "ID": "vocab-2"
+      "ID": "vocab-3"
   },
   {
     "Question": "Quali delle seguenti parole è considerato un elettrodomestico?",
       "Options": ["Dog", "Bed", "Fridge", "Tree"],
       "Answer": "Fridge",
-      "ID": "vocab-3"
-  }
+      "ID": "vocab-4"
+  },
+  {
+    "Question": "Come si dice il numero sette?",
+    "Options": ["Ten", "Four", "Seven", "Six"],
+    "Answer": "Seven",
+    "ID": "vocab-1"
+  },
 ]
