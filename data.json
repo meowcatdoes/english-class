@@ -4,56 +4,56 @@
     "Question": "Come si dice il numero sette?",
     "Options": ["Ten", "Four", "Seven", "Six"],
     "Answer": "Seven",
-    "ID": "vocab-1"
+    "ID": "x1"
   },
   {
       "Type" : "Multiple",
       "Question": "Completa la frase: George is ＿＿ than Nick.",
       "Options": ["Tall", "Taller", "Tallest", "Told"],
       "Answer": "Taller",
-      "ID" : "grammar-1"
+      "ID" : "x2"
   },
   {  
       "Type" : "Multiple",
       "Question": "Completa la frase: I like walking in the park ＿＿ hot days.",
       "Options": ["at", "in", "on", "under"],
       "Answer": "on",
-      "ID": "grammar-2"
+      "ID": "x3"
   },
   {
       "Type" : "Multiple",
       "Question": "Completa la frase: ＿＿ do you like playing during long winter evenings?",
       "Options": ["Who", "Where", "Which", "What"],
       "Answer": "What",
-      "ID": "grammar-3"
+      "ID": "x4"
   },
   {
     "Type" : "Multiple",
     "Question": "Come si dice <font color='red'>questo colore</color>?",
       "Options": ["purple", "blue", "green", "red"],
       "Answer": "red",
-      "ID": "vocab-2"
+      "ID": "x5"
   },
   {
     "Type" : "Multiple",
     "Question": "Come si dice 'sorella'?",
-      "Options": ["Sister", "Sislay", "Brother", "Scissors"],
+      "Options": ["Sister", "Aunt", "Brother", "Scissors"],
       "Answer": "Sister",
-      "ID": "vocab-3"
+      "ID": "x6"
   },
   {
     "Type" : "Multiple",
     "Question": "Quali delle seguenti parole è considerato un elettrodomestico?",
       "Options": ["Dog", "Bed", "Fridge", "Tree"],
       "Answer": "Fridge",
-      "ID": "vocab-4"
+      "ID": "x7"
   },
   {
     "Type" : "Multiple",
     "Question": "Come si dice il numero sette?",
     "Options": ["Ten", "Four", "Seven", "Six"],
     "Answer": "Seven",
-    "ID": "vocab-5"
+    "ID": "x8"
   },
   {
     "Type" : "Multiple",
@@ -61,20 +61,161 @@
     "Image" : "https://clipart-library.com/data_images/321852.png",
     "Options": ["Telephone", "Calculator", "Laptop Computer", "Mobile Phone"],
     "Answer": "Calculator",
-    "ID": "vocab-6"
+    "ID": "x9"
   },
   {
     "Type" : "Match",
     "Question": "Riordina la frase correttamente.",
     "Options": ["Anna", "name", "my", "is"],
     "Answer": "My name is Anna",
-    "ID": "match-1"
+    "ID": "x10"
   },
   {
     "Type" : "Match",
     "Question": "Riordina la frase correttamente.",
     "Options": ["pizza", "food", "favourite", "is", "my"],
-    "Answer": "Pizza is my favourite food",
-    "ID": "match-2"
+    "Answer": "My favourite food is pizza",
+    "ID": "x11"
+  },
+  {
+    "Type" : "Multiple",
+    "Question": "Scegli la frase corretta.",
+    "Image": "https://media.istockphoto.com/id/1406861840/vector/vintage-camera-with-outline-35-mm-retro-film-photo-camera.jpg?s=612x612&w=0&k=20&c=m2SebyNItg-MFbinKGv83mcVLSN3rI620ytkKpMuTVU=",
+    "Options": ["These is a camera", "This is camera", "This is a camera", "These are camera"],
+    "Answer": "This is a camera",
+    "ID": "x12"
+  },
+  {
+    "Type" : "Multiple",
+    "Question": "Descrivi cosa stanno facendo.",
+    "Image": "https://img.freepik.com/premium-vector/guys-are-playing-basketball_185320-138.jpg",
+    "Options": ["They are swimming", "They are playing basketball", "They aren't playing basketball", "They are running"],
+    "Answer": "They are playing basketball",
+    "ID": "x13"
+  },
+  {
+    "Type" : "Multiple",
+    "Question": "Completa la frase: This ＿＿ a cool game!",
+    "Options": ["be", "are", "can", "is"],
+    "Answer": "is",
+    "ID": "x14"
+  },
+  {
+    "Type" : "Match",
+    "Question": "Riordina i numeri in ordine crescente.",
+    "Options": ["one", "four", "three", "two", "five"],
+    "Answer": "One two three four five",
+    "ID": "x15"
+  },
+  {
+    "Type" : "Multiple",
+    "Question": "Guarda il ragazzo a sinistra (maglietta azzurra e pantaloni verdi). Cosa sta facendo?",
+    "Image" : "https://i.pinimg.com/736x/94/2d/1e/942d1e4c8f7df583d24757ba2634d9f9.jpg",
+    "Options": ["He is acting", "He is drinking", "He is partying", "He is painting", "He is playing"],
+    "Answer": "He is painting",
+    "ID": "x16"
+  },
+  {
+    "Type" : "Multiple",
+    "Question": "Che animale è?",
+    "Image" : "https://classroomclipart.com/image/static7/preview2/cute-white-black-cat-with-yellow-eyes-60393.jpg",
+    "Options": ["Cat", "Cheetah", "Dog", "Cougar"],
+    "Answer": "Cat",
+    "ID": "x17"
+  },
+  {
+    "Type" : "Match",
+    "Question": "Riordina i nomi degli animali che vedi nella foto (da sinistra a destra).",
+    "Image" : "https://i.pinimg.com/736x/01/20/bc/0120bcd33799f8062d65b44a5955c79f.jpg",
+    "Options": ["Tiger", "Giraffe", "Zebra", "Elephant", "Lion"],
+    "Answer": "Giraffe Elephant Lion Tiger Zebra",
+    "ID": "x18"
+  },
+  {
+    "Type" : "Match",
+    "Question": "Come si scrive mercoledí in inglese?",
+    "Options": ["w", "e", "n", "e", "d", "s", "y", "a", "d"],
+    "Answer": "W e d n e s d a y",
+    "ID": "x19"
+  },
+  {
+    "Type" : "Multiple",
+    "Question": "Descrivi cosa sta facendo il ragazzo.",
+    "Image" : "https://media.istockphoto.com/id/1192771773/vector/happy-cute-kid-boy-eat-healthy-food.jpg?s=612x612&w=0&k=20&c=VjxkWPnhb7fZFX6CvAjm8rsY7ycOVuyF6G4rKV0BCKs=",
+    "Options": ["He is playing", "He is sleeping", "He is eating", "He is walking"],
+    "Answer": "He is eating",
+    "ID": "x20"
+  },
+  {
+    "Type" : "Multiple",
+    "Question": "Completa la frase: I ＿＿ 23 years old.",
+    "Options": ["is", "be", "will", "am"],
+    "Answer": "am",
+    "ID": "x21"
+  },
+  {
+    "Type" : "Multiple",
+    "Question": "Come si dice questo numero.",
+    "Image": "https://t3.ftcdn.net/jpg/01/97/23/40/360_F_197234077_3zCGfxJ3lZvpBCngXkjX1uVqt8wA0V1u.jpg",
+    "Options": ["Twenty-seven", "Two seven", "Ten seventeen", "Seventy"],
+    "Answer": "Twenty-seven",
+    "ID": "x22"
+  },
+  {
+    "Type" : "Multiple",
+    "Question": "Completa la frase: ＿＿ you drive?",
+    "Options": ["Can", "Are", "Is", "Let"],
+    "Answer": "Can",
+    "ID": "x23"
+  },
+  {
+    "Type" : "Multiple",
+    "Question": "Indica se è corretto: This don't be real.",
+    "Options": ["Sbagliato", "Corretto"],
+    "Answer": "Sbagliato",
+    "ID": "x24"
+  },
+  {
+    "Type" : "Multiple",
+    "Question": "Indica se è corretto: She can play the piano.",
+    "Options": ["Sbagliato", "Corretto"],
+    "Answer": "Corretto",
+    "ID": "x25"
+  },
+  {
+    "Type" : "Multiple",
+    "Question": "Completa la frase: What ＿＿ you doing?",
+    "Options": ["is", "are", "could", "might"],
+    "Answer": "are",
+    "ID": "x26"
+  },
+  {
+    "Type" : "Match",
+    "Question": "Riordina la frase correttamente.",
+    "Options": ["birthday", "today", "my", "is"],
+    "Answer": "Today is my birthday",
+    "ID": "x27"
+  },
+  {
+    "Type" : "Match",
+    "Image" : "https://sweetclipart.com/wp-content/uploads/Balloons-Seven-Rainbow-Colors-Clip-Art.png",
+    "Question": "Metti i nomi dei colori nell'ordine corretto.",
+    "Options": ["Green", "Purple", "Red", "Blue", "Yellow", "Pink", "Orange"],
+    "Answer": "Red Orange Yellow Green Blue Purple Pink",
+    "ID": "x28"
+  },
+  {
+    "Type" : "Multiple",
+    "Question": "Cosa significa 'Good Evening!'?",
+    "Options": ["Buon compleanno!", "Complimenti!", "Buon giorno!", "Buona sera!"],
+    "Answer": "Buona sera!",
+    "ID": "x29"
+  },
+  {
+    "Type" : "Multiple",
+    "Question": "Completa la frase: The ＿＿ is delicious.",
+    "Options": ["Food", "Car", "Music", "Colour"],
+    "Answer": "Food",
+    "ID": "x30"
   }
 ]
