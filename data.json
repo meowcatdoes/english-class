@@ -1,57 +1,80 @@
 [
   {
+    "Type" : "Multiple",
     "Question": "Come si dice il numero sette?",
     "Options": ["Ten", "Four", "Seven", "Six"],
     "Answer": "Seven",
     "ID": "vocab-1"
   },
   {
+      "Type" : "Multiple",
       "Question": "Completa la frase: George is ＿＿ than Nick.",
       "Options": ["Tall", "Taller", "Tallest", "Told"],
       "Answer": "Taller",
       "ID" : "grammar-1"
   },
-  {
+  {  
+      "Type" : "Multiple",
       "Question": "Completa la frase: I like walking in the park ＿＿ hot days.",
       "Options": ["at", "in", "on", "under"],
       "Answer": "on",
       "ID": "grammar-2"
   },
   {
+      "Type" : "Multiple",
       "Question": "Completa la frase: ＿＿ do you like playing during long winter evenings?",
       "Options": ["Who", "Where", "Which", "What"],
       "Answer": "What",
       "ID": "grammar-3"
   },
   {
+    "Type" : "Multiple",
     "Question": "Come si dice <font color='red'>questo colore</color>?",
       "Options": ["purple", "blue", "green", "red"],
       "Answer": "red",
       "ID": "vocab-2"
   },
   {
+    "Type" : "Multiple",
     "Question": "Come si dice 'sorella'?",
       "Options": ["Sister", "Sislay", "Brother", "Scissors"],
       "Answer": "Sister",
       "ID": "vocab-3"
   },
   {
+    "Type" : "Multiple",
     "Question": "Quali delle seguenti parole è considerato un elettrodomestico?",
       "Options": ["Dog", "Bed", "Fridge", "Tree"],
       "Answer": "Fridge",
       "ID": "vocab-4"
   },
   {
+    "Type" : "Multiple",
     "Question": "Come si dice il numero sette?",
     "Options": ["Ten", "Four", "Seven", "Six"],
     "Answer": "Seven",
     "ID": "vocab-5"
   },
   {
+    "Type" : "Multiple",
     "Question": "Come si chiama l'oggetto nell'immagine sotto?",
     "Image" : "https://clipart-library.com/data_images/321852.png",
     "Options": ["Telephone", "Calculator", "Laptop Computer", "Mobile Phone"],
     "Answer": "Calculator",
     "ID": "vocab-6"
+  },
+  {
+    "Type" : "Match",
+    "Question": "Riordina la frase correttamente.",
+    "Options": ["Anna", "name", "my", "is"],
+    "Answer": "My name is Anna",
+    "ID": "match-1"
+  },
+  {
+    "Type" : "Match",
+    "Question": "Riordina la frase correttamente.",
+    "Options": ["pizza", "food", "favourite", "is", "my"],
+    "Answer": "Pizza is my favourite food",
+    "ID": "match-2"
   }
 ]
