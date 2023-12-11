@@ -72,7 +72,8 @@
   },
   {
     "Type" : "Fill",
-    "Question": "I am [INSERT]. You are [INSERT].",
+    "Question": "Inserisci le parole corrette negli spazi vuoti.",
+    "Problem": "I am [INSERT]. You are [INSERT].",
     "Options": ["Is", "Sit", "Tall", "Not", "Mother"],
     "Answer": "Tall Not",
     "ID": "x11"
