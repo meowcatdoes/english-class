@@ -64,16 +64,17 @@
   },
   {
     "Type" : "Match",
-    "Question": "Fai lo spelling per la parola \"Offerta\" in inglese.",
-    "Options": ["o", "r", "f", "e", "f"],
-    "Answer": "O f f e r",
+    "Question": "Come si dice \"Buon Giorno\"?",
+    "Options": ["Good", "Bad", "Great", "Afternoon", "Evening", "Morning"],
+    "Blocks" : 2,
+    "Answer": "Good Morning",
     "ID": "x10"
   },
   {
     "Type" : "Fill",
-    "Question": "What [INSERT] your name? [INSERT] name is Anna.",
-    "Options": ["Is", "Are", "Can", "My"],
-    "Answer": "Is My",
+    "Question": "I am [INSERT]. You are [INSERT].",
+    "Options": ["Is", "Sit", "Tall", "Not", "Mother"],
+    "Answer": "Tall Not",
     "ID": "x11"
   }
 ]
