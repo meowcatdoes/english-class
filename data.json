@@ -75,7 +75,7 @@
     "Question": "Inserisci le parole corrette negli spazi vuoti.",
     "Problem": "I am [INSERT]. You are [INSERT].",
     "Options": ["Is", "Sit", "Tall", "Not", "Mother"],
-    "Answer": "Tall Not",
+    "Answer": "I am tall. You are not.",
     "ID": "x11"
   }
 ]
