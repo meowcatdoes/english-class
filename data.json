@@ -24,7 +24,7 @@
     "Type" : "Match",
     "Question": "Come si scrive \"Madre\" in inglese?",
     "Options": ["r", "m", "h", "o", "t", "e"],
-    "Answer": "Mother",
+    "Answer": "M o t h e r",
     "ID": "x4"
   },
   {
@@ -52,21 +52,21 @@
     "Type" : "Match",
     "Question": "Fai lo spelling per la parola \"Fantasia\" in inglese.",
     "Options": ["t", "a", "a", "n", "f", "s", "y"],
-    "Answer": "Fantasy",
+    "Answer": "F a n t a s y",
     "ID": "x8"
   },
   {
     "Type" : "Match",
     "Question": "Fai lo spelling per la parola \"Silenzio\" in inglese.",
     "Options": ["e", "l", "i", "s", "n", "c", "e"],
-    "Answer": "Silence",
+    "Answer": "S i l e n c e",
     "ID": "x9"
   },
   {
     "Type" : "Match",
     "Question": "Fai lo spelling per la parola \"Offerta\" in inglese.",
     "Options": ["o", "r", "f", "e", "f"],
-    "Answer": "Offer",
+    "Answer": "O f f e r",
     "ID": "x10"
   }
 ]
