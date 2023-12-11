@@ -68,5 +68,13 @@
     "Options": ["o", "r", "f", "e", "f"],
     "Answer": "O f f e r",
     "ID": "x10"
+  },
+  {
+    "Type" : "Match",
+    "Question": "Test",
+    "Options": ["A", "B", "C", "D"],
+    "Blocks" : 2,
+    "Answer": "A D",
+    "ID": "x11"
   }
 ]
