@@ -1,81 +1,82 @@
 [
   {
     "Type" : "Multiple",
-    "Question": "Come si dice \"Aquila\"?",
-    "Options": ["Detail", "Quail", "Eagle", "Pink"],
-    "Answer": "Eagle",
+    "Question": "Count the <b>vowel clusters</b>: \"This summer I am going on a cruise ship.\"",
+    "Options": ["1", "5", "3", "2"],
+    "Answer": "2",
     "ID": "x1"
   },
   {
     "Type" : "Multiple",
-    "Question": "Come si dice \"Maglione\"?",
-    "Options": ["Journal", "Mother", "Nothing", "Jumper"],
-    "Answer": "Jumper",
+    "Question": "Count the <b>consonant clusters</b>: \"My cats are always fighting each other.\"",
+    "Options": ["5", "1", "0", "4"],
+    "Answer": "4",
     "ID": "x2"
   },
   {
     "Type" : "Multiple",
-    "Question": "Come si dice \"Acqua\"?",
-    "Options": ["Water", "Ally", "Dry", "Last"],
-    "Answer": "Water",
+    "Question": "How many vowels does the word \"Machine\" contain?",
+    "Options": ["2", "3", "1", "4"],
+    "Answer": "3",
     "ID": "x3"
   },
   {
     "Type" : "Match",
-    "Question": "Come si scrive \"Madre\" in inglese?",
-    "Options": ["r", "m", "h", "o", "t", "e"],
-    "Answer": "M o t h e r",
+    "Question": "Re-order the words in alphabetical order.",
+    "Options": ["Xylophone", "Journal", "Yellow", "Dog", "Scene"],
+    "Answer": "Dog journal scene xylophone yellow",
     "ID": "x4"
   },
   {
-    "Type" : "Match",
-    "Question": "Metti in ordine le traduzioni delle seguenti parole: \"Padre\", \"Elefante\", \"Guerra\",\"Appartamento\"",
-    "Options": ["Unit", "Elephant", "Father", "War"],
-    "Answer": "Father Elephant War Unit",
+    "Type" : "Multiple",
+    "Question": "Come si dice \"Saluto\"?",
+    "Options": ["Great", "Grape", "Greeting", "Stew"],
+    "Answer": "Greeting",
     "ID": "x5"
   },
   {
-    "Type" : "Multiple",
-    "Question": "Quali delle seguenti parole contiene la lettera \"R\" in inglese?",
-    "Options": ["Centesimo", "Dentro", "Sotto", "Bollitore"],
-    "Answer": "Sotto",
+    "Type" : "Match",
+    "Question": "Riordina le lettere per ottenere la parola \"Nutrire\" in inglese.",
+    "Options": ["s", "i", "h", "o", "u", "n", "r"],
+    "Answer": "N o u r i s h",
     "ID": "x6"
   },
   {
     "Type" : "Multiple",
-    "Question": "Come si dice \"Giovane\"",
-    "Options": ["Xenon", "Young", "Water", "Nourish"],
-    "Answer": "Young",
+    "Question": "Come si dice \"Meteo\" (o \"Clima\")?",
+    "Options": ["Zealous", "Umbrella", "Where", "Weather"],
+    "Answer": "Weather",
     "ID": "x7"
   },
   {
-    "Type" : "Match",
-    "Question": "Fai lo spelling per la parola \"Fantasia\" in inglese.",
-    "Options": ["t", "a", "a", "n", "f", "s", "y"],
-    "Answer": "F a n t a s y",
+    "Type" : "Fill",
+    "Question": "Inserisci le parole corrette negli spazi vuoti.",
+    "Problem": "I like [INSERT]ead, it's delici[INSERT]s",
+    "Options": ["CR", "BR", "TR", "AU", "OU"],
+    "Answer": "I like bread, it's delicious",
     "ID": "x8"
   },
   {
-    "Type" : "Match",
-    "Question": "Fai lo spelling per la parola \"Silenzio\" in inglese.",
-    "Options": ["e", "l", "i", "s", "n", "c", "e"],
-    "Answer": "S i l e n c e",
+    "Type" : "Multiple",
+    "Question": "When is \"y\" considered a vowel?",
+    "Options": ["At the end of a sentence", "At the end of a word", "At the end of a word and syllable", "After a consonant", "Never"],
+    "Answer": "At the end of a word and syllable",
     "ID": "x9"
   },
   {
-    "Type" : "Match",
-    "Question": "Come si dice \"Buon Giorno\"?",
-    "Options": ["Good", "Bad", "Great", "Afternoon", "Evening", "Morning"],
-    "Blocks" : 2,
-    "Answer": "Good Morning",
+    "Type" : "Fill",
+    "Question": "Inserisci le parole corrette negli spazi vuoti.",
+    "Problem": "The [INSERT] is sunny. We don't need an [INSERT].",
+    "Options": ["Warm", "Dry", "Weather", "Cold", "Umbrella", "Rain"],
+    "Answer": "The weather is sunny. We don't need an umbrella.",
     "ID": "x10"
   },
   {
     "Type" : "Fill",
     "Question": "Inserisci le parole corrette negli spazi vuoti.",
-    "Problem": "I am [INSERT]. You are [INSERT].",
-    "Options": ["Is", "Sit", "Tall", "Not", "Mother"],
-    "Answer": "I am tall. You are not.",
+    "Problem": "I would like to get the [INSERT] cutlet and a bottle of [INSERT].",
+    "Options": ["Pink", "Thin", "Water", "British", "Pork", "Rooster"],
+    "Answer": "I would like to get the pork cutlet and a bottle of water.",
     "ID": "x11"
   }
 ]
