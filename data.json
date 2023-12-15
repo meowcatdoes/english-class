@@ -49,19 +49,11 @@
     "ID": "x7"
   },
   {
-    "Type" : "Fill",
-    "Question": "Inserisci le parole corrette negli spazi vuoti.",
-    "Problem": "I like [INSERT]ead, it's delici[INSERT]s",
-    "Options": ["CR", "BR", "TR", "AU", "OU"],
-    "Answer": "I like bread, it's delicious",
-    "ID": "x8"
-  },
-  {
     "Type" : "Multiple",
     "Question": "When is \"y\" considered a vowel?",
     "Options": ["At the end of a sentence", "At the end of a word", "At the end of a word and syllable", "After a consonant", "Never"],
     "Answer": "At the end of a word and syllable",
-    "ID": "x9"
+    "ID": "x8"
   },
   {
     "Type" : "Fill",
@@ -69,7 +61,7 @@
     "Problem": "The [INSERT] is sunny. We don't need an [INSERT].",
     "Options": ["Warm", "Dry", "Weather", "Cold", "Umbrella", "Rain"],
     "Answer": "The weather is sunny. We don't need an umbrella.",
-    "ID": "x10"
+    "ID": "x9"
   },
   {
     "Type" : "Fill",
@@ -77,6 +69,6 @@
     "Problem": "I would like to get the [INSERT] cutlet and a bottle of [INSERT].",
     "Options": ["Pink", "Thin", "Water", "British", "Pork", "Rooster"],
     "Answer": "I would like to get the pork cutlet and a bottle of water.",
-    "ID": "x11"
+    "ID": "x10"
   }
 ]
